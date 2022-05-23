@@ -20,7 +20,7 @@
     "canvases" : [ {
       "@id" : "http://7a2cc142-829b-4569-89a5-0ed731680d40",
       "@type" : "sc:Canvas",
-      "label" : "Empty canvas",
+      "label" : "Uffington White Horse",
       "height" : 3000,
       "width" : 4000,
       "images" : [ {
