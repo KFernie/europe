@@ -20,7 +20,7 @@
     "canvases" : [ {
       "@id" : "http://67722810-c8ca-4923-9ee9-6b8c5c87eb99",
       "@type" : "sc:Canvas",
-      "label" : "Empty canvas",
+      "label" : "Cricklade life",
       "height" : 4000,
       "width" : 3000,
       "images" : [ {
