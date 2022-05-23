@@ -20,7 +20,7 @@
     "canvases" : [ {
       "@id" : "http://9410a8ac-bc3c-412a-901c-58cd6e37a80b",
       "@type" : "sc:Canvas",
-      "label" : "Empty canvas",
+      "label" : "Stonehenge",
       "height" : 3000,
       "width" : 4000,
       "images" : [ {
