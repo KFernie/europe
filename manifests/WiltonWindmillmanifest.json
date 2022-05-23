@@ -20,7 +20,7 @@
     "canvases" : [ {
       "@id" : "http://87257b7b-7684-4262-8997-5a749285ec22",
       "@type" : "sc:Canvas",
-      "label" : "Empty canvas",
+      "label" : "Wilton Windmill",
       "height" : 4000,
       "width" : 3000,
       "images" : [ {
