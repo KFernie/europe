@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://KFernie.github.io/europe/manifests/Cricklade_life.json",
+  "@type" : "sc:Manifest",
+  "label" : "Cricklade life",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Kate Fernie",
+  "sequences" : [ {
+    "@id" : "http://ddb1f006-a724-46fe-92bb-4dd1c1438fbc",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://67722810-c8ca-4923-9ee9-6b8c5c87eb99",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 4000,
+      "width" : 3000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://69186ae3-cc1d-4453-a829-1134945c6190",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/2013-04-28-cricklade-town-crier/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/2013-04-28-cricklade-town-crier",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 4000,
+          "width" : 3000
+        },
+        "on" : "http://67722810-c8ca-4923-9ee9-6b8c5c87eb99"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
