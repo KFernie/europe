@@ -21,5 +21,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://KFernie.github.io/europe/manifests/Uffingtonmanifest.json",
     "label" : "Uffington"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://KFernie.github.io/europe/manifests/Aveburymanifest.json",
+    "label" : "Avebury"
   } ]
 }
