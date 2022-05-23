@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://KFernie.github.io/europe/manifests/Cricklade_life.json",
     "label" : "Cricklade life"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://KFernie.github.io/europe/manifests/WiltonWindmillmanifest.json",
+    "label" : "WiltonWindmill"
   } ]
 }
