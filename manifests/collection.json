@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://KFernie.github.io/europe/manifests/stonehenge_manifest.json",
     "label" : "Stonehenge"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://KFernie.github.io/europe/manifests/Cricklade_life.json",
+    "label" : "Cricklade life"
   } ]
 }
