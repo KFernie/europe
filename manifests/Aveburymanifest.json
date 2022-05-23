@@ -20,7 +20,7 @@
     "canvases" : [ {
       "@id" : "http://64c1d897-2a17-4629-8507-220d0f07a3d6",
       "@type" : "sc:Canvas",
-      "label" : "Empty canvas",
+      "label" : "Avebury",
       "height" : 3000,
       "width" : 4000,
       "images" : [ {
