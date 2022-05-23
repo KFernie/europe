@@ -1,0 +1,13 @@
+{
+  "id" : "https://KFernie.github.io/europe/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in KFernie/europe project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://KFernie.github.io/europe/manifests/stonehenge_manifest.json",
+    "label" : "Stonehenge"
+  } ]
+}
